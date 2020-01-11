@@ -1,0 +1,4 @@
+<?xml version="1.1" encoding="UTF-8"?><inits xmlns="http://www.ibm.com/rational/test/lt/varinit">
+  <variable_init name="RTW_WebUI_Browser_Selection" value="Firefox"/>
+  <variable_init name="URL" value="192.168.17.18:8089"/>
+</inits>
